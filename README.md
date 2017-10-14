@@ -3,7 +3,7 @@
 # Important
 This is slightly modifyed version of [ng-asset-inline](https://www.npmjs.com/package/ng-asset-inline) pakage
 
-There is no repo for original repo, so no fork no MR, just new repo.
+There is no repo for original package, so no fork no MR, just new repo.
 
 # ng-asset-inline
 
