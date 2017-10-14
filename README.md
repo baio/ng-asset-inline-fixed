@@ -1,5 +1,10 @@
 [![build status](https://gitlab.com/csvn/ng-asset-inline/badges/master/build.svg)](https://gitlab.com/csvn/ng-asset-inline/commits/master)
 
+# Important
+This is slightly modifyed version of [ng-asset-inline](https://www.npmjs.com/package/ng-asset-inline) pakage
+
+There is no repo for original repo, so no fork no MR, just new repo.
+
 # ng-asset-inline
 
 Helpful CLI tool for inlining Angular component `templateUrl` and `styleUrls` when bundling library code.

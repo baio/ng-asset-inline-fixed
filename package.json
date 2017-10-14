@@ -91,7 +91,7 @@
   ],
   "license": "MIT",
   "main": "dist/main.js",
-  "name": "ng-asset-inline",
+  "name": "ng-asset-inline-fixed",
   "optionalDependencies": {
     "node-sass": "^4.5.3"
   },
