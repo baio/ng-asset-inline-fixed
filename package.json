@@ -1,6 +1,6 @@
 {
   "_from": "ng-asset-inline",
-  "_id": "ng-asset-inline@1.1.7",
+  "_id": "ng-asset-inline@1.1.8",
   "_inBundle": false,
   "_integrity": "sha512-6MJ0F4D8AwMEEh7tMSECr/rAYiGk/INEaaAMOiEMMMh/on3iGaVl/DaoQhCsrIaz1S3FlDEEB0BTDOlUEWrErA==",
   "_location": "/ng-asset-inline",
@@ -44,8 +44,8 @@
     "email": "csvn.dev@gmail.com"
   },
   "bin": {
-    "ngai": "bin/ng-asset-inline.js",
-    "ng-asset-inline": "bin/ng-asset-inline.js"
+    "ngai-fixed": "bin/ng-asset-inline.js",
+    "ng-asset-inline-fixed": "bin/ng-asset-inline.js"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -103,7 +103,7 @@
     "test": "ts-node node_modules/tape/bin/tape test/**/*.ts | tap-diff"
   },
   "typings": "dist/main.d.ts",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "warnings": [
     {
       "code": "ENOTSUP",
